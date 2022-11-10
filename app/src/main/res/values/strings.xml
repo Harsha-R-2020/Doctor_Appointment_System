@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Composecamp</string>
+
+        <string name="affirmation1">CSE Semester-3</string>
+        <string name="affirmation2">CSE Semester-5</string>
+        <string name="affirmation3">CSE Semester-7</string>
+        <string name="affirmation4">Civil Semester-3</string>
+        <string name="affirmation5">Civil Semester-5</string>
+        <string name="affirmation6">Civil Semester-7</string>
+        <string name="affirmation7">ECE-A Semester-5</string>
+        <string name="affirmation8">ECE-B Semester-5</string>
+        <string name="affirmation9">ECE-A Semester-7</string>
+        <string name="affirmation10">ECE-B Semester-7</string>
+        <string name="affirmation11">Academic calendar-Odd</string>
+        <string name="affirmation12">Academic calendar-Even</string>
+        <string name="affirmation13">CSE-Vision and Mission</string>
+        <string name="affirmation14">ECE-Vision and Mission</string>
+        <string name="affirmation15">Civil-Vision and Mission</string>
+        <string name="card1">Re-Schedule Appointment</string>
+        <string name="card2">Timetable</string>
+        <string name="card3">Appointment</string>
+        <string name="card4">CSE</string>
+        <string name="card5">ECE</string>
+        <string name="card6">EEE</string>
+        <string name="card7">Anouncements</string>
+        <string name="Announcement1">GDSC Info Session</string>
+    <string name="Announcement2">Compose Camp</string>
+    <string name="Announcement3">DCODE Challenge</string>
+        <string name="title_activity_depart">Depart</string>
+</resources>
